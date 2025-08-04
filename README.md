@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chakyeoungho
-- 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning Driver Develop
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gcha792@gmail.com
 
