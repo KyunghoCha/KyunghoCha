@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KyunghoCha
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Europe
 - 📫 How to reach me gcha792@gmail.com
 
 <!---
